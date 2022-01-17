@@ -4,7 +4,7 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<updated>2022-01-17T16:11:40+00:00</updated>
+	<updated>2022-01-17T16:16:03+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
   <title type="html">Civil Service LGBT+ Network</title>
@@ -45,11 +45,15 @@
 			<content type="html" xml:base="https://www.civilservice.lgbt/news/2022/01/17/share-your-views-on-the-conference-for-lgbt-civil-servants">
         &lt;p&gt;As trailed in our &lt;a href=&quot;https://www.civilservice.lgbt/news/2021/12/14/a-conference-for-lgbt-civil-servants&quot;&gt;December post&lt;/a&gt; on the conference, we’re keen to hear your views to help shape our plan for the conference.&lt;/p&gt;
 
-&lt;p&gt;Today we have launched a &lt;a href=&quot;/consultation/a-survey-on-the-conference-for-lgbt-civil-servants-&quot;&gt;consultation&lt;/a&gt; that is open for two weeks (closing 28th January 2022), seeking your views on what you want to get out of the conference and what you would like to see.&lt;/p&gt;
+&lt;p&gt;Today we have launched a consultation that is open for two weeks (closing 28th January 2022), seeking your views on what you want to get out of the conference and what you would like to see.&lt;/p&gt;
 
-&lt;p&gt;Take the &lt;a href=&quot;/consultation/a-survey-on-the-conference-for-lgbt-civil-servants-&quot;&gt;survey&lt;/a&gt; now, to ensure you views are heard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/consultation/a-survey-on-the-conference-for-lgbt-civil-servants-&quot;&gt;Take the survey&lt;/a&gt; now, to ensure you views are heard.&lt;/p&gt;
 
-&lt;h3 id=&quot;click-here-to-complete-the-survey&quot;&gt;Click &lt;a href=&quot;/consultation/a-survey-on-the-conference-for-lgbt-civil-servants-&quot;&gt;here&lt;/a&gt; to complete the survey.&lt;/h3&gt;
+&lt;blockquote class=&quot;document-box&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;A survey on the conference for LGBT+ civil servants&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/consultation/a-survey-on-the-conference-for-lgbt-civil-servants-&quot;&gt;Complete this survey&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;If you have any enquiries relating to the survey or the conference, please email &lt;a href=&quot;info@civilservice.lgbt&quot;&gt;info@civilservice.lgbt&lt;/a&gt;.&lt;/p&gt;
       </content>
