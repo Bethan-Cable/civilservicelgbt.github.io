@@ -4,7 +4,7 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<updated>2022-02-08T20:22:50+00:00</updated>
+	<updated>2022-02-08T20:34:44+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
   <title type="html">Civil Service LGBT+ Network</title>
@@ -52,6 +52,8 @@
 &lt;ul&gt;
   &lt;li&gt;Birmingham&lt;/li&gt;
   &lt;li&gt;Bristol&lt;/li&gt;
+  &lt;li&gt;Edinburgh&lt;/li&gt;
+  &lt;li&gt;Glasgow&lt;/li&gt;
   &lt;li&gt;Liverpool&lt;/li&gt;
   &lt;li&gt;London&lt;/li&gt;
   &lt;li&gt;Manchester&lt;/li&gt;
@@ -62,7 +64,7 @@
 
 &lt;h2 id=&quot;join-us-at-the-events&quot;&gt;Join us at the events&lt;/h2&gt;
 
-&lt;p&gt;If you’d like to attend one of our events, register your information and just turn up!&lt;/p&gt;
+&lt;p&gt;If you’d like to attend one of our events: register your information so we can update you of any changes, and then just turn up!&lt;/p&gt;
 
 &lt;p&gt;Details of where the events are taking place are always published on our website at &lt;a href=&quot;/events&quot;&gt;www.civilservice.lgbt/events&lt;/a&gt;.&lt;/p&gt;
 
@@ -75,6 +77,8 @@
       
 			<category term="news" />
 
+			
+			<category term="[&quot;west-midlands&quot;, &quot;london&quot;, &quot;north-west&quot;, &quot;scotland&quot;, &quot;south-west&quot;, &quot;south-east&quot;]" />
 			
 
 			
